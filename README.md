@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 - 🔭 I’m currently working on [Freshcery](https://github.com/Swapnilbagga/Freshcery)
 
-- 🌱 I’m currently learning **Data Structure and Reactjs**
+- 🌱 I’m currently learning **Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Swapnilbagga?tab=repositories](https://github.com/Swapnilbagga?tab=repositories)
 
